@@ -6,3 +6,12 @@ body{
 
 
 }
+
+.btn{
+  color: white;
+  background-color: darksalmon;
+}
+
+#Fire, #Water, #Grass{
+  display: none;
+}
